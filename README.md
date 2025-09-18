@@ -66,6 +66,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="639" height="419" alt="ADD ASM" src="https://github.com/user-attachments/assets/e1c30614-d64b-45f8-82f5-edd559018842" />
+
 
 ## 2. SUBTRACTION
 
@@ -111,6 +113,8 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="633" height="421" alt="SUB ASM" src="https://github.com/user-attachments/assets/39244085-7590-4756-87aa-02b0d6782393" />
+
 
 (Add your calculation here)
 
@@ -166,6 +170,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="630" height="419" alt="MUL ASM" src="https://github.com/user-attachments/assets/ec8f389b-d17f-4822-b90e-3d1dc67af28e" />
+
 
 ## 4. DIVISION
 
@@ -210,6 +216,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="638" height="423" alt="DIV ASM" src="https://github.com/user-attachments/assets/05fc6fb0-a1b8-4dbd-9140-d9a0a3a63e14" />
+
 
 
 
