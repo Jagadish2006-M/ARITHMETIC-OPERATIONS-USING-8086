@@ -66,6 +66,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="639" height="419" alt="ADD ASM" src="https://github.com/user-attachments/assets/9b6321f5-bfee-4484-88c5-4a0d950b3e39" />
+
 
 ## 2. SUBTRACTION
 
@@ -118,6 +120,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="633" height="421" alt="SUB ASM" src="https://github.com/user-attachments/assets/8feb7f5f-7c3c-4e42-91a8-6891efe835ed" />
+
 
 ## 3. MULTIPLICATION
 
@@ -166,6 +170,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="630" height="419" alt="MUL ASM" src="https://github.com/user-attachments/assets/575f1af1-e6ea-4055-9633-7889967b288e" />
+
 
 ## 4. DIVISION
 
@@ -210,6 +216,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="638" height="423" alt="DIV ASM" src="https://github.com/user-attachments/assets/ec1ffe12-f276-4be0-bda1-b75098a0b12e" />
+
 
 
 
