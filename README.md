@@ -66,7 +66,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="639" height="419" alt="ADD ASM" src="https://github.com/user-attachments/assets/e1c30614-d64b-45f8-82f5-edd559018842" />
+<img width="640" height="427" alt="INDADD ASM" src="https://github.com/user-attachments/assets/a7c8b441-ddcd-47d8-b87f-ecdbf85cfe73" />
+
 
 
 ## 2. SUBTRACTION
@@ -122,6 +123,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="638" height="427" alt="INDSUB ASM" src="https://github.com/user-attachments/assets/71b13584-682e-4fbc-880c-6c0203f71300" />
+
 
 ## 3. MULTIPLICATION
 
@@ -170,7 +173,9 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="630" height="419" alt="MUL ASM" src="https://github.com/user-attachments/assets/ec8f389b-d17f-4822-b90e-3d1dc67af28e" />
+<img width="637" height="415" alt="INDMUL ASM" src="https://github.com/user-attachments/assets/080c5e25-619b-4f56-9d84-2df32c83db63" />
+
+
 
 
 ## 4. DIVISION
@@ -216,7 +221,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-<img width="638" height="423" alt="DIV ASM" src="https://github.com/user-attachments/assets/05fc6fb0-a1b8-4dbd-9140-d9a0a3a63e14" />
+<img width="643" height="424" alt="INDDIV ASM" src="https://github.com/user-attachments/assets/feb40909-f201-4bf5-bf51-4408983e45ac" />
+
 
 
 
