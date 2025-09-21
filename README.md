@@ -69,7 +69,6 @@ END
 <img width="640" height="427" alt="INDADD ASM" src="https://github.com/user-attachments/assets/a7c8b441-ddcd-47d8-b87f-ecdbf85cfe73" />
 
 
-
 ## 2. SUBTRACTION
 
 #### Algorithm
@@ -114,7 +113,7 @@ END
 |                         |                          |
 
 #### Manual Calculations
-<img width="633" height="421" alt="SUB ASM" src="https://github.com/user-attachments/assets/39244085-7590-4756-87aa-02b0d6782393" />
+
 
 
 (Add your calculation here)
