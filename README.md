@@ -54,7 +54,6 @@ END
 ```
 
 #### Output Table
-![INDIRECT ADD](https://github.com/user-attachments/assets/8988805d-6cce-4956-8f1f-a2f76b916afb)
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
@@ -106,8 +105,6 @@ END
 
 
 #### Output Table
-![INDIRECT SUB](https://github.com/user-attachments/assets/9c5d0ea5-dd7b-4241-b678-e2fa2314f1ff)
-
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
@@ -157,7 +154,6 @@ END
 ```
 
 #### Output Table
-![INDIRECT MUL](https://github.com/user-attachments/assets/b25b94e3-65bc-4249-8d2b-59cdff0782bb)
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
@@ -205,8 +201,6 @@ END
 ```
 
 #### Output Table
-![IND DIV](https://github.com/user-attachments/assets/e430a6bf-eb29-4226-bf41-8604db0b55f8)
-
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
