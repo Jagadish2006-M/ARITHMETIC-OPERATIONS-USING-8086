@@ -163,7 +163,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000= 12            |        2004= 44          |
+|     2001= 12            |        2005= 89          |
+|     2002= 12            |        2006= 46          |
+|     2003= 12            |        2007= 01          |
 
 #### Manual Calculations
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/433f41a8-616e-4b37-a0e9-1430080e4b5e" />
@@ -210,7 +213,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000= 86            |        2004= 07          |
+|     2001= 79            |        2005= 00          |
+|     2002= 13            |        2006= 01          |
+|     2003= 11            |        2007= 02          |
 
 #### Manual Calculations
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f9760816-11b0-4b70-a6d6-100f762fb293" />
