@@ -62,10 +62,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
-![INDIRECT ADD](https://github.com/user-attachments/assets/724f4433-5ff4-424a-b788-a518f749c3a8)
-
----
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/8a54c737-5910-46e9-a6b8-8cd07716f249" />
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="640" height="427" alt="INDADD ASM" src="https://github.com/user-attachments/assets/a7c8b441-ddcd-47d8-b87f-ecdbf85cfe73" />
@@ -118,12 +115,7 @@ END
 
 #### Manual Calculations
 
-![INDIRECT SUB](https://github.com/user-attachments/assets/77527e5d-2bb4-48d0-88b4-ee2669c44135)
-
-
-(Add your calculation here)
-
----
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/75e59ef6-8c58-491f-a43c-3e65c95e2b16" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -172,11 +164,8 @@ END
 |                         |                          |
 
 #### Manual Calculations
-![INDIRECT MUL](https://github.com/user-attachments/assets/521cb49f-7a0c-4279-8ab7-28bf48cfcbae)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/433f41a8-616e-4b37-a0e9-1430080e4b5e" />
 
-(Add your calculation here)
-
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="637" height="415" alt="INDMUL ASM" src="https://github.com/user-attachments/assets/080c5e25-619b-4f56-9d84-2df32c83db63" />
@@ -224,9 +213,8 @@ END
 |                         |                          |
 
 #### Manual Calculations
-![IND DIV](https://github.com/user-attachments/assets/37113560-b083-4646-904e-7907724efccc)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f9760816-11b0-4b70-a6d6-100f762fb293" />
 
-(Add your calculation here)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
